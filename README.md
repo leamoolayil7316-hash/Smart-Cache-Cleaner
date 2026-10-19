@@ -143,4 +143,6 @@ Smart Cache Cleaner demonstrates how different eviction policies can select file
 
 ## Author
 
-Developed as an Operating Systems academic project.
+LEA FATHIMA MOOLAYIL 24BDS0408
+SARAH FATHIMA 24BCE2728
+MOHITHA VELPULA 24BCE2706
