@@ -144,5 +144,5 @@ Smart Cache Cleaner demonstrates how different eviction policies can select file
 ## Author
 
 LEA FATHIMA MOOLAYIL 24BDS0408
-SARAH FATHIMA 24BCE2728
+SARAH FATHIM 24BCE2728
 MOHITHA VELPULA 24BCE2706
